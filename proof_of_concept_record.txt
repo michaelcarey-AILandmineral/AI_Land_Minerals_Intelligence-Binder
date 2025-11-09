@@ -1,0 +1,5 @@
+Founder Record — AI Land & Mineral Intelligence  
+Created: November 8, 2025  
+Founder: Michael Carey  
+Summary: Proof-of-concept Binder Dashboard successfully deployed using Streamlit and Python 3.13.  
+Status: Operational and verified as of local execution.
